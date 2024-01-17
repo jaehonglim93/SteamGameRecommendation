@@ -1,0 +1,38 @@
+/* Genres.css */
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    align-self: center;
+  }
+  
+  form {
+    margin-top: 2rem;
+  }
+
+  .genre-checkboxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .genre-check {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    font-size: 1.2rem;
+    margin-left: 0.5rem;
+  }
+  
+  
+  

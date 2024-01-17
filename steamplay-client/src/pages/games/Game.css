@@ -1,0 +1,8 @@
+.game {
+    display: flex;
+    flex-direction: column;
+}
+
+.game-descrip {
+    width:fit-content;
+}
